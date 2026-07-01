@@ -74,25 +74,25 @@ Total Records : **10**
 
 ### Correlation Heatmap
 
-![Heatmap](images/correlation_heatmap.png)
+![Heatmap](images/heatmap_correlation.png)
 
 ---
 
 ### Histogram
 
-![Histogram](images/histogram_order_amount.png)
+![Histogram](images/histogram.png)
 
 ---
 
 ### Scatter Plot
 
-![Scatter](images/scatter_order_discount.png)
+![Scatter](images/scatterplot.png)
 
 ---
 
-### Boxplot
+### Covariance Heatmap
 
-![Boxplot](images/boxplot_delivery_time.png)
+![Boxplot](images/heatmap_covariance.png)
 
 ---
 
